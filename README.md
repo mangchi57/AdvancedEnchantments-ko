@@ -23,3 +23,8 @@
 #applies-to: Hoes 부분을 applies-to: 괭이 으로 전체 한국어 수정 완료
 
 이후 오류 발생시 한번더 수정 요청 부탁해주세요
+
+# Fix
+2023-08-06 일자
+AdvancedEnchantments-9.3.7 버전으로 번역 작업 완료
+번역 파일 업로드 완료
