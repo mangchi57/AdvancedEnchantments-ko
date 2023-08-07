@@ -28,3 +28,8 @@
 2023-08-06 일자
 AdvancedEnchantments-9.3.7 버전으로 번역 작업 완료
 번역 파일 업로드 완료
+
+# Fix
+2023-08-07 일자
+AdvancedEnchantments-9.3.7-Ver2 업로드
+일부 오류 부분확인
