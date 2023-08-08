@@ -33,3 +33,14 @@ AdvancedEnchantments-9.3.7 버전으로 번역 작업 완료
 2023-08-07 일자
 AdvancedEnchantments-9.3.7-Ver2 업로드
 일부 오류 부분확인
+
+# Fix
+2023-08-08 일자
+AdvancedEnchantments-9.3.7-Ver3 업로드
+일부 오류 부분확인
+
+-일부 인첸트 설명이 두번 나오는 오류 수정
+-ec 기능으로 무작위 인첸트구매시 아이템명령어가 실행이 안되는 오류 수정
+
+
+
